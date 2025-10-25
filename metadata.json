@@ -1,0 +1,5 @@
+{
+  "name": "Stock Variation Tracker",
+  "description": "An application to track stock variations for multiple SKUs over time. It provides a detailed view of stock levels, calculates variations over selected periods, and uses Gemini to generate AI-powered insights on stock trends.",
+  "requestFramePermissions": []
+}
